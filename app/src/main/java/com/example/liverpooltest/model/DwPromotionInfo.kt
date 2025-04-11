@@ -1,4 +1,4 @@
-package com.example.liverpooltest
+package com.example.liverpooltest.model
 
 data class DwPromotionInfo(
     val dWPromoDescription: String,

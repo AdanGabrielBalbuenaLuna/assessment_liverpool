@@ -1,4 +1,4 @@
-package com.example.liverpooltest
+package com.example.liverpooltest.model
 
 data class Status(
     val status: String,
