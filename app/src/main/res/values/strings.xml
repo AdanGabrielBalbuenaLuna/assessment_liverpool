@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LiverpoolTest</string>
+
+    <string-array name="sort_options">
+        <item>Predefinida</item>
+        <item>Menor precio</item>
+        <item>Mayor precio</item>
+    </string-array>
 </resources>
