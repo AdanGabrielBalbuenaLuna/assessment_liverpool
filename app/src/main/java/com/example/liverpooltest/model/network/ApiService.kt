@@ -14,5 +14,3 @@ interface ApiService {
         @QueryMap filters: Map<String, String> = emptyMap()
     ): MainModel
 }
-
-//?search-string=%7B%7Bpredefinida%7D%7D&page-number=1
