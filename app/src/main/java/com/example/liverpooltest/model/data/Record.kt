@@ -1,7 +1,7 @@
 package com.example.liverpooltest.model.data
 
-import com.example.liverpooltest.model.DwPromotionInfo
-import com.example.liverpooltest.model.VariantsColor
+import com.example.liverpooltest.model.others.DwPromotionInfo
+import com.example.liverpooltest.model.others.VariantsColor
 
 data class Record(
     val brand: String,

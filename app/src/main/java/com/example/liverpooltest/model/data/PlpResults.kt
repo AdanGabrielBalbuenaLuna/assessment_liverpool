@@ -1,11 +1,11 @@
 package com.example.liverpooltest.model.data
 
-import com.example.liverpooltest.model.CustomUrlParam
-import com.example.liverpooltest.model.MetaData
-import com.example.liverpooltest.model.Navigation
-import com.example.liverpooltest.model.PlpState
-import com.example.liverpooltest.model.RefinementGroup
-import com.example.liverpooltest.model.SortOption
+import com.example.liverpooltest.model.others.CustomUrlParam
+import com.example.liverpooltest.model.others.MetaData
+import com.example.liverpooltest.model.others.Navigation
+import com.example.liverpooltest.model.others.PlpState
+import com.example.liverpooltest.model.others.RefinementGroup
+import com.example.liverpooltest.model.others.SortOption
 
 data class PlpResults(
     val customUrlParam: CustomUrlParam,

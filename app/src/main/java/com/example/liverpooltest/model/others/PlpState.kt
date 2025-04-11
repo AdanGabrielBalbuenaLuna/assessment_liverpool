@@ -1,4 +1,4 @@
-package com.example.liverpooltest.model
+package com.example.liverpooltest.model.others
 
 data class PlpState(
     val categoryId: String,

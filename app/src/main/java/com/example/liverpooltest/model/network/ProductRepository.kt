@@ -1,4 +1,4 @@
-package com.example.liverpooltest.model
+package com.example.liverpooltest.model.network
 
 import com.example.liverpooltest.model.data.MainModel
 

@@ -2,7 +2,7 @@ package com.example.liverpooltest.ui.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.liverpooltest.model.ProductRepository
+import com.example.liverpooltest.model.network.ProductRepository
 
 class ViewModelFactory(private val repository: ProductRepository) : ViewModelProvider.Factory {
     @Suppress("UNCHECKED_CAST")

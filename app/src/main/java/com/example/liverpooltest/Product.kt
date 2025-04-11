@@ -1,6 +1,6 @@
 package com.example.liverpooltest
 
-import com.example.liverpooltest.model.VariantsColor
+import com.example.liverpooltest.model.others.VariantsColor
 
 data class Product(
     val productDisplayName: String?,
